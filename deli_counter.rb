@@ -13,3 +13,4 @@ def line (array)
    puts response
    end
 end
+
